@@ -2,4 +2,6 @@ body footer {
   position: fixed;
   background-color: black;
   color: #fff;
-  padding: 1em; }
+  padding: 1em;
+  width: 100%;
+  bottom: 0; }
