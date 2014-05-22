@@ -1,2 +1,8 @@
 
 *.codekit
+
+glossy.html
+
+js/min/glossy-ck.js
+
+*.scssc
