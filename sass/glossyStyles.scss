@@ -14,28 +14,6 @@ body {
 		z-index: 2;
 	}
 
-	header {
-		font-size: 1.0rem;
-		float: left;
-		min-width: 150px;
-		font-weight: 200;
-		color: $bartext;
-		position: fixed;
-		top: 0;
-		left: 0;
-		padding-left: 0.5rem;
-		background: -moz-linear-gradient(left,  rgba(255,255,255,0.5) 0%, rgba(255,255,255,0) 100%); /* FF3.6+ */
-		background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(255,255,255,0.5)), color-stop(100%,rgba(255,255,255,0))); /* Chrome,Safari4+ */
-		background: -webkit-linear-gradient(left,  rgba(255,255,255,0.5) 0%,rgba(255,255,255,0) 100%); /* Chrome10+,Safari5.1+ */
-		background: -o-linear-gradient(left,  rgba(255,255,255,0.5) 0%,rgba(255,255,255,0) 100%); /* Opera 11.10+ */
-		background: -ms-linear-gradient(left,  rgba(255,255,255,0.5) 0%,rgba(255,255,255,0) 100%); /* IE10+ */
-		background: linear-gradient(to right,  rgba(255,255,255,0.5) 0%,rgba(255,255,255,0) 100%); /* W3C */
-		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80ffffff', endColorstr='#00ffffff',GradientType=1 ); /* IE6-9 */
-	}
-	nav {
-		
-	}
-
 	.content {
 		position: relative;
 		z-index: 5;
