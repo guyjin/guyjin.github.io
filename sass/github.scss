@@ -1,0 +1,10 @@
+$footer-bg: #000;
+
+body {
+	footer {
+		position: fixed;
+		background-color: $footer-bg;
+		color: #fff;
+		padding: 1em;
+	}
+}
