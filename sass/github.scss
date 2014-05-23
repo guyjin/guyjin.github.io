@@ -12,6 +12,11 @@ body {
 		overflow: hidden;
 		margin-top: -25px;
 		margin-bottom: 25px;
+
+		img {
+			width: 100%;
+			min-height: 200px;
+		}
 	}
 	
 	footer {
