@@ -6,7 +6,8 @@ body {
     width: 100%;
     height: 150px;
     overflow: hidden;
-    margin-top: -25px; }
+    margin-top: -25px;
+    margin-bottom: 25px; }
   body footer {
     background-color: rgba(255, 255, 255, 0.5);
     color: #333333;
