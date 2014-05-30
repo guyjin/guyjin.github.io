@@ -6,3 +6,5 @@ glossy.html
 js/min/glossy-ck.js
 
 *.scssc
+
+.idea/.name

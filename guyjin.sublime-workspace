@@ -1,0 +1,295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mouse",
+				"mouseenter	mouseenter"
+			],
+			[
+				"re",
+				"ready	document.ready - $(function()"
+			],
+			[
+				"this",
+				"this	$(this)"
+			],
+			[
+				"update",
+				"updateTodosLeft"
+			],
+			[
+				"has",
+				"hasClass	.hasClass"
+			],
+			[
+				"loca",
+				"localStorage"
+			],
+			[
+				"pup",
+				"populateList"
+			],
+			[
+				"db",
+				"dblclick	.dblclick()"
+			],
+			[
+				"read",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"ready",
+				"ready	$(document).ready"
+			],
+			[
+				"hvoer",
+				"hoverResponse"
+			],
+			[
+				"hover",
+				"hoverResponse"
+			],
+			[
+				"first",
+				"firstButton"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"app",
+				"appendTo	.appendTo()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"jek",
+				"Set Syntax: HTML (Jekyll)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"jeky",
+				"Set Syntax: HTML (Jekyll)"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ben/Documents/respositories/guyjin.github.io/css/github.css",
+		"/Users/ben/Documents/respositories/guyjin.github.io/css/glossyStyles.css",
+		"/Users/ben/Documents/respositories/guyjin.github.io/_includes/nav.html",
+		"/Users/ben/Documents/respositories/guyjin.github.io/_layouts/home.html",
+		"/Users/ben/Documents/respositories/guyjin.github.io/_layouts/default.html",
+		"/Users/ben/Documents/respositories/guyjin.github.io/glossy.html",
+		"/Users/ben/Documents/respositories/guyjin.github.io/_includes/footer.html",
+		"/Users/ben/Documents/respositories/guyjin.github.io/index.md",
+		"/Users/ben/Documents/respositories/guyjin.github.io/index.html",
+		"/Users/ben/Documents/respositories/guyjin.github.io/_includes/bg.html",
+		"/Users/ben/Documents/respositories/guyjin.github.io/js/glossy.js",
+		"/Users/ben/Documents/respositories/guyjin.github.io/sass/glossyStyles.scss",
+		"/Users/ben/Documents/respositories/WebDevBoot/course-content/module4/jQuery Exercises/1.Getting Started/styles.css",
+		"/Users/ben/Documents/respositories/WebDevBoot/course-content/module4/jQuery Exercises/bg.css",
+		"/Users/ben/Sites/bigether/css/bg.css.php",
+		"/Users/ben/Documents/respositories/guyjin.github.io/sass/github.scss",
+		"/Users/ben/Documents/respositories/guyjin.github.io/_includes/header.html",
+		"/Users/ben/Documents/respositories/guyjin.github.io/_config.yml",
+		"/Users/ben/Documents/respositories/guyjin.github.io/readme.md",
+		"/Users/ben/Documents/respositories/Learning Ruby Code/fundamentals.rb",
+		"/Users/ben/Documents/respositories/Learning Ruby Code/hello.rb",
+		"/Users/ben/Documents/respositories/todo-app/index.html",
+		"/Users/ben/Documents/respositories/todo-app/base.css",
+		"/Users/ben/Documents/respositories/todo-app/script.js",
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/ben/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/ben/Documents/respositories/todo-app/script2.js",
+		"/Users/ben/Documents/respositories/WebDevBoot/todo-app/script2.js",
+		"/Users/ben/Documents/respositories/WebDevBoot/todo-app/index.html",
+		"/Users/ben/Documents/respositories/WebDevBoot/todo-app/script.js",
+		"/Users/ben/Documents/respositories/WebDevBoot/course-content/module4/jQuery Exercises/5.Selectors/index.html",
+		"/Users/ben/Documents/respositories/WebDevBoot/course-content/module4/jQuery Exercises/5.Selectors/jquery-2.1.1.js",
+		"/Users/ben/Documents/respositories/WebDevBoot/course-content/module4/jQuery Exercises/5.Selectors/script.js",
+		"/Users/ben/Documents/respositories/WebDevBoot/course-content/module4/jQuery Exercises/5.Selectors/styles.css",
+		"/Users/ben/Documents/respositories/WebDevBoot/course-content/module4/jQuery Exercises/1.Getting Started/index.html",
+		"/Users/ben/Documents/respositories/WebDevBoot/course-content/module4/jQuery Exercises/6.Iterating/script.js",
+		"/Users/ben/Documents/respositories/WebDevBoot/course-content/module4/jQuery Exercises/4.Changing the DOM/script.js",
+		"/Users/ben/Documents/respositories/WebDevBoot/course-content/module4/jQuery Exercises/6.Iterating/styles.css",
+		"/Users/ben/Documents/respositories/WebDevBoot/course-content/module4/jQuery Exercises/7.Clone,Add,Count/script.js",
+		"/Users/ben/Documents/respositories/WebDevBoot/course-content/module4/jQuery Exercises/9.Animate/script.js",
+		"/Users/ben/Documents/respositories/WebDevBoot/course-content/module4/jQuery Exercises/9.Animate/index.html",
+		"/Users/ben/Documents/respositories/WebDevBoot/course-content/module4/jQuery Exercises/7.Clone,Add,Count/index.html",
+		"/Users/ben/Documents/respositories/WebDevBoot/course-content/module4/jQuery Exercises/11.AJAX/script.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"populateList",
+			"*=",
+			"css",
+			"Tax_rate",
+			"completes",
+			"updateTodosLeft",
+			"class=\" b\"",
+			"<li>",
+			"++;\n",
+			"clear-completed",
+			"a",
+			"target",
+			"addTodoListener"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "guyjin.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
