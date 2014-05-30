@@ -4,6 +4,8 @@ $bartext: #333;
 @import url(http://weloveiconfonts.com/api/?family=entypo);
 
 
+
+
 body {
 	padding: 0;
 	margin: 0;
@@ -39,16 +41,7 @@ body {
 			margin-left: -150px;
 			top: 30%;
 
-			.block {
-				width: 100%;
-				border: 5px solid #fff;
-				padding: .5em;
-				text-align: center;
-				color: #fff;
-				font-size: 20px;
-				background-color: rgba(255, 255, 255, 0.13);
-				text-shadow: 0px 0px 3px #000;
-			}
+			@import "block";
 
 			.blurb {
 				width: 300px;
