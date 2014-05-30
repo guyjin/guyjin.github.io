@@ -13,5 +13,19 @@ $(function() {
 		},500);
 	});
 
+	$(window).resize(function(event) {
+		setup.positionChange();
+	});
+
+	var setup = {
+		positionChange : function() {
+			var h = Math.floor($(window).innerHeight()*.3)
+			$('.splash').css('top', h);
+		}
+	}
+
+	setup.positionChange();
+
 
 });
+
