@@ -8,6 +8,8 @@ body {
   body header {
     position: relative;
     z-index: 2; }
+  body nav .navbar-nav li a:hover {
+    cursor: pointer; }
   body .content {
     position: relative;
     z-index: 5;
