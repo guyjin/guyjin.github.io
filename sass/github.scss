@@ -1,5 +1,6 @@
 $barcolor: rgba(255,255,255,0.5);
 $bartext: #333;
+@import url(http://weloveiconfonts.com/api/?family=entypo);
 
 body {
 	padding: 0;
@@ -25,6 +26,13 @@ body {
 			width: 100px;
 			top: 30px;
 			left: 30px;
+		}
+	}
+
+	.content {
+		/* entypo */
+		[class*="entypo-"]:before {
+		  font-family: 'entypo', sans-serif;
 		}
 	}
 	
